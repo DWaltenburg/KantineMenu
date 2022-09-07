@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\KantineMenu\KantineMenu\bin\Debug\net6.0\KantineMenu.exe
+C:\Users\david\source\repos\KantineMenu\KantineMenu\bin\Debug\net6.0\KantineMenu.deps.json
+C:\Users\david\source\repos\KantineMenu\KantineMenu\bin\Debug\net6.0\KantineMenu.runtimeconfig.json
+C:\Users\david\source\repos\KantineMenu\KantineMenu\bin\Debug\net6.0\KantineMenu.dll
+C:\Users\david\source\repos\KantineMenu\KantineMenu\bin\Debug\net6.0\ref\KantineMenu.dll
+C:\Users\david\source\repos\KantineMenu\KantineMenu\bin\Debug\net6.0\KantineMenu.pdb
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\KantineMenu.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\KantineMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\KantineMenu.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\KantineMenu.AssemblyInfo.cs
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\KantineMenu.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\KantineMenu.dll
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\ref\KantineMenu.dll
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\KantineMenu.pdb
+C:\Users\david\source\repos\KantineMenu\KantineMenu\obj\Debug\net6.0\KantineMenu.genruntimeconfig.cache
